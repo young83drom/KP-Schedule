@@ -1,0 +1,50 @@
+.form-card {
+  background: var(--bg-surface);
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  margin-bottom: 20px;
+}
+
+.form-card h3 {
+  margin-top: 0;
+  margin-bottom: 15px;
+  color: #1a202c;
+  font-size: 1.2rem;
+  border-bottom: 2px solid #edf2f7;
+  padding-bottom: 8px;
+}
+
+.form-group {
+  margin-bottom: 12px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+  font-size: 0.85rem;
+}
+
+.form-group input, .form-group select {
+  width: 100%;
+  padding: 8px 12px;
+  box-sizing: border-box;
+  border: 1px solid #cbd5e0;
+  border-radius: 4px;
+}
+
+.submit-btn {
+  background: #2b6cb0;
+  color: #fff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+  font-weight: 600;
+}
+
+.submit-btn:hover {
+  background: #2c5282;
+}
