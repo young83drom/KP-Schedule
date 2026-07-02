@@ -24,9 +24,9 @@ The platform provides an elegant user experience where users can seamlessly allo
 ---
 
 ## Author
-* **Name:** Alex Mercer
-* **Email:** alex.mercer.dev@kpschedule.internal
-* **Website:** https://github.com/keywords/kp-schedule
+* **Name:** Young Drom
+* **Email:** Young83drom@outlook.com
+* **Website:** [KP Schedule](https://www.kpschedule.com.co)
 * **Bio:** Alex is a Senior Full-Stack Engineer with over 12 years of enterprise architecture experience. Specializing in highly performant React infrastructures and micro-frontend design patterns, Alex has built global SaaS platforms handling millions of daily active operations. Celebrated for a deeply collaborative, helping nature, Alex frequently mentors junior engineers, contributes actively to open-source systems, and believes that exceptional code should always be paired with flawless documentation.
 
 ---
